@@ -24,6 +24,7 @@
 - [X] **Update command**
 - [X] **Close duplicate bots**
 - [X] **SSH loader and cross compiler**
+- [X] **Discord bot integration**
 
 -----
 
