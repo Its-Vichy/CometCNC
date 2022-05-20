@@ -1,0 +1,23 @@
+ ╔═════════════════════~<r><n> 
+ ║ *x86_64*: *<x86_64>*<r><n> 
+ ║ *x86_32*: *<x86_32>*<r><n> 
+ ║ *ARM2*: *<ARM2>*<r><n> 
+ ║ *ARM3*: *<ARM3>*<r><n> 
+ ║ *ARM4T*: *<ARM4T>*<r><n> 
+ ║ *ARM5*: *<ARM5>*<r><n> 
+ ║ *ARM6T2*: *<ARM6T2>*<r><n> 
+ ║ *ARM6*: *<ARM6>*<r><n> 
+ ║ *ARM7*: *<ARM7>*<r><n> 
+ ║ *ARM64*: *<ARM64>*<r><n> 
+ ║ *MIPS*: *<MIPS>*<r><n> 
+ ║ *SUPERH*: *<SUPERH>*<r><n> 
+ ║ *POWERPC*: *<POWERPC>*<r><n> 
+ ║ *SPARC*: *<SPARC>*<r><n> 
+ ║ *M68K*: *<M68K>*<r><n> 
+ ║ *UNKNOWN_Build*: *<UNKNOWN_Build>*<r><n> 
+ ║ *BIG_ENDIAN*: *<BIG_ENDIAN>*<r><n> 
+ ║ *LITTLE_ENDIAN*: *<LITTLE_ENDIAN>*<r><n> 
+ ║ *BIG_ENDIAN_W*: *<BIG_ENDIAN_W>*<r><n> 
+ ║ *LITTLE_ENDIAN_W*: *<LITTLE_ENDIAN_W>*<r><n> 
+ ║ *UNKNOWN_Endian*: *<UNKNOWN_Endian>*<r><n> 
+ ╚═════════════════════~

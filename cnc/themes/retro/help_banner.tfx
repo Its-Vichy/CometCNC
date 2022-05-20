@@ -1,0 +1,17 @@
+<r>*───►* CometC2 Commands*:*<r><n>
+    *►* exit*:*<r><n>
+        *~> Close the session*<r><n>
+    *►* port*:*<r><n>
+        *~> Get port list*<r><n>
+    *►* themes*:*<r><n>
+        *~> Get the theme list*<r><n>
+    *►* admin*:*<r><n>
+        *~> Show admin commands*<r><n>
+    *►* tools*:*<r><n>
+        *~> Show toolbox*<r><n>
+    *►* profil*:*<r><n>
+        *~> Show your profil*<r><n>
+    *►* methods*:*<r><n>
+        *~> Get all methods*<r><n>
+    *►* set_theme*:*<r><n>
+        *~> Set new theme*<r><n>
