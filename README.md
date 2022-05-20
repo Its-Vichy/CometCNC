@@ -8,6 +8,10 @@
 
 -----
 
+### [Showcase](https://www.youtube.com/watch?v=XdiKUZWdLuA)
+
+-----
+
 - You need BulletProof vps, join discord if you want to buy one.
 - Can hit hard, 120GBs reached with GithubActions VPS :p.
 - Setup the database like [that](https://media.discordapp.net/attachments/965434865971507260/977210525668761720/unknown.png?width=1440&height=599)
