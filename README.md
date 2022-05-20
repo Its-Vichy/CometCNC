@@ -8,11 +8,17 @@
 
 -----
 
+- You need BulletProof vps, join discord if you want to buy one.
+- Can hit hard, 120GBs reached with GithubActions VPS :p.
+
+-----
+
 - [X] **Custom theme and GIF on terminal**
 - [X] **Account managed with MongoDB**
 - [X] **Layer4 and 7 flood**
 - [X] **Update command**
 - [X] **Close duplicate bots**
+- [X] **SSH loader and cross compiler**
 
 -----
 
